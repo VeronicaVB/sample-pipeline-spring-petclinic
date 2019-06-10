@@ -1,5 +1,6 @@
 # Spring PetClinic Sample Application
 
+A small change in the README.md File, for testing purposes.
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
